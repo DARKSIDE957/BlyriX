@@ -6,7 +6,7 @@
 
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download%20Blyri.X-01875F?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)
 
-[Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app) · [Website and Privacy Policy](https://blackx-works.com/) · [Discord Community](https://discord.gg/nbraH2MfBt) · [Support Blyri.X](https://ko-fi.com/c/4e4397f93e)
+[Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app) · [Website and Privacy Policy](https://blackx-works.com/) · [Support Blyri.X](https://ko-fi.com/c/4e4397f93e)
 
 </div>
 
@@ -61,4 +61,3 @@ In each release, I try my best to support more languages and keep improving the 
 * **Download:** [Blyri.X on Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)
 * **Support Development:** [Support Blyri.X](https://ko-fi.com/c/4e4397f93e)
 * **Website and Privacy Policy:** [Black.X](https://blackx-works.com/)
-* **Community:** [Discord Server](https://discord.gg/nbraH2MfBt)

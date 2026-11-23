@@ -2,11 +2,13 @@
 
 Local Android music player by **[Black.X](https://blackx-works.com/)**. Clean, fast, and built to work completely offline with zero ads, zero accounts, and zero tracking.
 
+Blyri.X does not download any music from any sources. It only plays audio files already stored locally on your device.
+
 **[Download on Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)**
 
 ## Features
 
-* **Local Music Playback:** Play MP3, FLAC, M4A, AAC, WAV, OGG, and Opus tracks stored on your device, with instant search, custom sorting, multi selection tools, Playlists, and Custom Albums.
+* **Local Music Playback:** Play MP3, FLAC, M4A, AAC, WAV, OGG, and Opus tracks stored on your device, with instant search, custom sorting, multiple selection tools, Playlists, and Custom Albums.
 * **Synchronized Lyrics:** Follow time synced lyrics live while listening, tap any line to seek straight to that moment, paste custom text or LRC timestamps, or embed lyrics into your audio files. Switch to Focus mode anytime for a clean, large cover player with lyrics hidden.
 * **Queue and Sleep Timer:** Manage playback with Play Next, Add to Queue, and a full Up Next manager to reorder or clear upcoming tracks. Set a Sleep Timer using presets, custom minutes, or stop automatically when the current track finishes.
 * **Custom Cover Art:** Fetch missing covers automatically, choose custom cover images for any song directly from the main track menu, protect custom covers during library scans, and restore previous covers from a 7 day backup.
@@ -14,7 +16,7 @@ Local Android music player by **[Black.X](https://blackx-works.com/)**. Clean, f
 * **Android Auto:** Browse Songs, Albums, and Artists, search your library, and control playback directly from your car dashboard.
 * **Local WiFi Share and Cleanup:** Send music, playlists, lyrics, and settings between phones on the same WiFi network without using the cloud, find duplicate tracks, and hide unwanted audio folders without deleting your files.
 * **Themes and Personalization:** Choose from light and dark themes, match your phone theme, or adapt accent colors dynamically to the current album artwork.
-* **Privacy First:** No account required, no ads, and no analytics or trackers. Your music stays on your phone.
+* **Privacy First:** No account required, no ads, and no analytics or trackers. Your music stays on your phone, and the app never downloads music from external sources.
 
 ## Supported Languages
 
@@ -22,7 +24,7 @@ Blyri.X currently supports **14 languages**:
 
 English, Afrikaans, Albanian, Amharic, Armenian, Azerbaijani, Basque, French, Indonesian, Japanese, Portuguese, Russian, Spanish, and Uzbek.
 
-In each release, we try our best to support more languages and keep improving the experience.
+In each release, I try my best to support more languages and keep improving the experience.
 
 ## Links and Support
 

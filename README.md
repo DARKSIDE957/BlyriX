@@ -1,35 +1,61 @@
+<div align="center">
+
 # Blyri.X
 
-Local Android music player by **[Black.X](https://blackx-works.com/)**. Clean, fast, and built to work completely offline with zero ads, zero accounts, and zero tracking.
+**Offline local music player for Android by [Black.X](https://blackx-works.com/)**
 
-Blyri.X does not download any music from any sources. It only plays audio files already stored locally on your device.
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download%20Blyri.X-01875F?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)
 
-**[Download on Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)**
+[Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app) Â· [Website and Privacy Policy](https://blackx-works.com/) Â· [Discord Community](https://discord.gg/nbraH2MfBt) Â· [Support Blyri.X](https://ko-fi.com/c/4e4397f93e)
+
+</div>
+
+<br/>
+
+Blyri.X is a dedicated local music player built strictly for the audio files already stored on your phone. It does not download music from any online sources, and works offline without accounts, subscriptions, or ads.
+
+> [!NOTE]
+> This repository hosts the official information page for Blyri.X. Official releases and automatic updates are distributed exclusively through the [Google Play Store](https://play.google.com/store/apps/details?id=com.linermusicplayer.app).
+
+## Overview
+
+| Detail | Information |
+| :--- | :--- |
+| **Package ID** | `com.linermusicplayer.app` |
+| **Latest Release** | `v1.3.9` |
+| **Platform** | Android 8.0 and higher |
+| **Audio Formats** | MP3, FLAC, M4A, AAC, WAV, OGG, Opus |
+| **Account or Ads** | None |
+| **Developer** | [Black.X](https://blackx-works.com/) |
 
 ## Features
 
-* **Local Music Playback:** Play MP3, FLAC, M4A, AAC, WAV, OGG, and Opus tracks stored on your device, with instant search, custom sorting, multiple selection tools, Playlists, and Custom Albums.
-* **Synchronized Lyrics:** Follow time synced lyrics live while listening, tap any line to seek straight to that moment, paste custom text or LRC timestamps, or embed lyrics into your audio files. Switch to Focus mode anytime for a clean, large cover player with lyrics hidden.
-* **Queue and Sleep Timer:** Manage playback with Play Next, Add to Queue, and a full Up Next manager to reorder or clear upcoming tracks. Set a Sleep Timer using presets, custom minutes, or stop automatically when the current track finishes.
-* **Custom Cover Art:** Fetch missing covers automatically, choose custom cover images for any song directly from the main track menu, protect custom covers during library scans, and restore previous covers from a 7 day backup.
-* **Sound Controls:** Equalizer with presets and custom band tuning, plus optional silence skipping.
-* **Android Auto:** Browse Songs, Albums, and Artists, search your library, and control playback directly from your car dashboard.
-* **Local WiFi Share and Cleanup:** Send music, playlists, lyrics, and settings between phones on the same WiFi network without using the cloud, find duplicate tracks, and hide unwanted audio folders without deleting your files.
-* **Themes and Personalization:** Choose from light and dark themes, match your phone theme, or adapt accent colors dynamically to the current album artwork.
-* **Privacy First:** No account required, no ads, and no analytics or trackers. Your music stays on your phone, and the app never downloads music from external sources.
+| Area | What Blyri.X Offers |
+| :--- | :--- |
+| **Music Library and Queue** | Fast local scanning, instant search, sorting, Playlists, Custom Albums, multi selection actions, Play Next, Add to Queue, and an Up Next manager to reorder or clear upcoming songs. |
+| **Synchronized Lyrics** | Time synced lyrics that follow playback, tap any line to jump straight to that timestamp, paste text or LRC lyrics, or save lyrics directly into audio file tags. Includes Focus mode for a large cover player without lyrics. |
+| **Cover Art Management** | Automatic missing cover lookup, a Custom Cover picker right inside each song menu, custom cover protection during library refreshes, and a 7 day backup to restore previous covers. |
+| **Audio Tuning and Sleep Timer** | Graphic Equalizer with presets and custom bands, optional silence skipping, and a Sleep Timer supporting quick presets, custom minutes, or stopping at the end of the current track. |
+| **Android Auto** | Browse Songs, Albums, and Artists, run voice or text searches, and control playback cleanly from your car display. |
+| **Local WiFi Transfer and Care** | Share music, playlists, lyrics, and settings between devices on the same local WiFi network with no cloud servers, clean up duplicate tracks, and hide unwanted folders or recordings without deleting files. |
+| **Themes** | Dark and light palettes, automatic phone theme matching, and dynamic accent colors sampled from the playing album art. |
 
 ## Supported Languages
 
 Blyri.X currently supports **14 languages**:
 
-English, Afrikaans, Albanian, Amharic, Armenian, Azerbaijani, Basque, French, Indonesian, Japanese, Portuguese, Russian, Spanish, and Uzbek.
+| | | | |
+| :--- | :--- | :--- | :--- |
+| English | Afrikaans | Albanian | Amharic |
+| Armenian | Azerbaijani | Basque | French |
+| Indonesian | Japanese | Portuguese | Russian |
+| Spanish | Uzbek | | |
 
-In each release, I try my best to support more languages and keep improving the experience.
+In each release, I try my best to support more languages and keep improving the app.
 
 ## Links and Support
 
-* **Google Play:** [Blyri.X on Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)
+* **Download:** [Blyri.X on Google Play](https://play.google.com/store/apps/details?id=com.linermusicplayer.app)
 * **Support Development:** [Support Blyri.X](https://ko-fi.com/c/4e4397f93e)
 * **Website and Privacy Policy:** [Black.X](https://blackx-works.com/)
-* **Discord Community:** [Join Discord](https://discord.gg/nbraH2MfBt)
-* **Developer Profile:** [DARKSIDE957 on GitHub](https://github.com/DARKSIDE957)
+* **Community:** [Discord Server](https://discord.gg/nbraH2MfBt)

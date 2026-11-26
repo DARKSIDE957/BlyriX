@@ -21,7 +21,6 @@ Blyri.X is a dedicated local music player built strictly for the audio files alr
 
 | Detail | Information |
 | :--- | :--- |
-| **Package ID** | `com.linermusicplayer.app` |
 | **Latest Release** | `v1.3.8` on Google Play (`v1.3.9` coming soon) |
 | **Platform** | Android 8.0 and higher |
 | **Audio Formats** | MP3, FLAC, M4A, AAC, WAV, OGG, Opus |
